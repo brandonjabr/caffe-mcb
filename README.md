@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Note
 
 This branch contains Yang Gao’s Compact Bilinear layers ([dedicated repo](https://github.com/gy20073/compact_bilinear_pooling), [paper](https://arxiv.org/abs/1511.06062)) released under the [BDD license](https://github.com/gy20073/compact_bilinear_pooling/blob/master/LICENSE), and Ronghang Hu’s Soft Attention layers ([paper](https://arxiv.org/abs/1511.03745)) released under BSD 2-clause.
@@ -41,3 +42,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+=======
+# caffe-mcb
+Caffe w/ MCB layers required for the VQA-MCB model
+>>>>>>> 81023d9d86800f6f078b7a08be684527194523ae
